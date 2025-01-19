@@ -3,7 +3,7 @@ langchain-community==0.2.9
 langchain-core==0.2.22
 langchain-openai==0.1.17
 langchain-text-splitters==0.2.2
-openai==1.36.0
+openai==1.59.8
 python-dotenv==1.0.1
 fastapi==0.111.1
 langserve==0.2.2
